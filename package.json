@@ -1,0 +1,56 @@
+{
+  "name": "driving-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.15",
+    "@fullcalendar/daygrid": "^6.1.15",
+    "@fullcalendar/interaction": "^6.1.15",
+    "@fullcalendar/react": "^6.1.15",
+    "@fullcalendar/timegrid": "^6.1.15",
+    "@mui/icons-material": "^6.3.0",
+    "@mui/material": "^6.3.0",
+    "@syncfusion/ej2-react-base": "^28.1.33",
+    "@syncfusion/ej2-react-buttons": "^28.1.36",
+    "@syncfusion/ej2-react-calendars": "^28.1.36",
+    "@syncfusion/ej2-react-dropdowns": "^28.1.36",
+    "@syncfusion/ej2-react-inputs": "^28.1.33",
+    "@syncfusion/ej2-react-navigations": "^28.1.36",
+    "@syncfusion/ej2-react-schedule": "^28.1.36",
+    "@syncfusion/ej2-react-splitbuttons": "^28.1.33",
+    "autoprefixer": "^10.4.20",
+    "bootstrap": "^5.3.3",
+    "cra-template": "1.2.0",
+    "moment-timezone": "^0.5.46",
+    "postcss": "^8.4.49",
+    "react": "^19.0.0",
+    "react-datepicker": "^7.5.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "5.0.1",
+    "tailwindcss": "^3.4.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
